@@ -1,7 +1,7 @@
 {
   "name": "assignment2",
   "version": "0.1.0",
-  "homepage": "https://DanieliusNev.github.io/pokedexAssignment2",
+  "homepage": "https://DanieliusNev.github.io/assignment2",
   "private": true,
   "dependencies": {
     "@emotion/styled": "^11.11.0",
